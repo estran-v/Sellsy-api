@@ -1,5 +1,5 @@
 {
-  "name": "ferjul17/sellsy-api",
+  "name": "estran-v/sellsy-api",
   "type": "library",
   "description": "PHP library which helps to call Sellsy's API with Guzzle ^7.0",
   "keywords": [
